@@ -39,3 +39,12 @@ testem.log
 Thumbs.db
 
 .nx/cache
+/.vscode
+frontend-e2e/log
+*.log
+.prettierignore
+.prettierrc
+.swcrc
+/log
+.DS_Store
+.eslintignore
